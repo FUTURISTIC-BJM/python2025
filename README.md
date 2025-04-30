@@ -35,6 +35,6 @@ Team Members:
 2. Sarah
 3. Deena
 
-## FUTURISTIC
+## FUTURISTIC TEAM
 
 1. BEH JIN MIN
