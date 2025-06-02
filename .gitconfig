@@ -1,0 +1,5 @@
+[user]
+	name = FUTURISTIC-BJM
+	email = m-11134462@moe-dl.edu.my
+[filter "repo"]
+	path = C:/Users/behji/AppData/Roaming/Python/Python39/Scripts/git-filter-repo
